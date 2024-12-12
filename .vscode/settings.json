@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CGA Level 2.sln"
+    "dotnet.defaultSolution": "CGA-Level-2.sln"
 }
